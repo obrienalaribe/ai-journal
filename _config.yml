@@ -1,0 +1,13 @@
+title: AI Journal
+description: Weekly learnings from building with Claude Code agents
+author: OB
+url: "https://obrienalaribe.github.io"
+baseurl: "/ai-journal"
+theme: minima
+markdown: kramdown
+
+# Social links (shown in footer by minima theme)
+github_username: obrienalaribe
+
+# Build settings
+show_excerpts: true
